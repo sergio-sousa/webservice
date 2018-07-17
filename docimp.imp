@@ -1,0 +1,6 @@
+<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n
+<VendasERP>\n
+<venda><id>ABR-5052018-2-E-1</id><dataVenda>2018-05-05</dataVenda><nsu>053009</nsu><nsuHost>053009</nsuHost><autorizacao>001453</autorizacao><plano>1</plano><rede>2</rede><bandeira>1</bandeira><produto>D</produto><valor>369.12</valor><codigoLoja>0010171214240002</codigoLoja><codigoEstabelecimento></codigoEstabelecimento><areaCliente></areaCliente><status>1</status></venda>\n
+<venda><id>ABR-5052018-2-V-1</id><dataVenda>2018-05-05</dataVenda><nsu>051735</nsu><nsuHost>051735</nsuHost><autorizacao>644547</autorizacao><plano>1</plano><rede>2</rede><bandeira>1</bandeira><produto>C</produto><valor>483.90</valor><codigoLoja>0010171214240002</codigoLoja><codigoEstabelecimento></codigoEstabelecimento><areaCliente></areaCliente><status>1</status></venda>\n
+<venda><id>ABR-5052018-4-P-1</id><dataVenda>2018-05-05</dataVenda><nsu>051671</nsu><nsuHost>000051671</nsuHost><autorizacao></autorizacao><plano>3</plano><rede>2</rede><bandeira>4</bandeira><produto>C</produto><valor>167.40</valor><codigoLoja>000000000300863</codigoLoja><codigoEstabelecimento></codigoEstabelecimento><areaCliente></areaCliente><status>1</status></venda>\n
+</VendasERP>\n\n\n
